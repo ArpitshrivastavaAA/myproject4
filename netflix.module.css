@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    height: 75px;
+    background-color:brown;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    color: white;
+
+}
+img{
+    height: 75px;
+    width: 100px;
+}
+div.searchbar{
+
+    display: flex;
+}
